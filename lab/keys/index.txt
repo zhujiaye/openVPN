@@ -1,0 +1,2 @@
+V	241212090249Z		01	unknown	/C=CN/ST=SH/L=Shanghai/O=Fudan university/OU=MyOrganizationalUnit/CN=server/name=EasyRSA/emailAddress=zhujiaye1@gmail.com
+V	241212090432Z		02	unknown	/C=CN/ST=SH/L=Shanghai/O=Fudan university/OU=MyOrganizationalUnit/CN=client/name=EasyRSA/emailAddress=zhujiaye1@gmail.com
